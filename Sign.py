@@ -4,25 +4,12 @@ import time
 from datetime import datetime, timedelta
 from telethon import TelegramClient
 
-api_id = [25314256]  # 输入api_id，一个账号一项
-api_hash = ['139f09302ba93166ac9bbe4382fca6ff']  # 输入api_hash，一个账号一项
+api_id = [*******]  # 输入api_id，一个账号一项
+api_hash = ['*******']  # 输入api_hash，一个账号一项
 
 bots = [
-    ("@sgkvipbot", '/sign'),
-    ("@infSGK0_bot", '/sign'),
-    ("@DogeSGK_bot", '/sign'),
-    ("@DingDangCats_Bot", '/qd'),
-    ("@wmsgk_bot", '/sign'),
-    ("@freesgk123_bot", '/sign'),
-    ("@FanHuaSGK_bot", '/sign'),
-    ("@aishegongkubot", '/sign'),
-    ("@Zonesgk_bot", '/qd'),
-    ("@Freeshegongku_bot", '/sign'),
-    ("@DATA_007bot", '/sign'),
-    ("@laoxisgkbot", '/checkin'),
-    ("@mqsgK_bot", '/sign'),
-    ("@tianwangchadangTop0_bot", '/sign'),
-    ("@Carllnet2_bot", '/qd'),
+    ("@****", '/sign'),
+    ("@***", '/sign')
 ]
 
 
